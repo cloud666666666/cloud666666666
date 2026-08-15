@@ -39,12 +39,9 @@
 
 <div align="center">
 
-<!-- github-readme-stats 国内访问不稳定, 已移除; 如需恢复去掉注释 -->
-<!--
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=cloud666666666&show_icons=true&theme=transparent&title_color=00E5FF&icon_color=00E5FF&text_color=DBE4F0&bg_color=0A0F1A&hide_border=true" />
--->
-
-**45+ public repos · building in public**
+<!-- 自生成统计图: GitHub Actions 每日更新(generate_stats.py), 不依赖第三方服务 -->
+<img height="130" src="stats.svg" alt="GitHub stats" />
+<img height="130" src="langs.svg" alt="Top languages" />
 
 </div>
 
