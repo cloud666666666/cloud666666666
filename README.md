@@ -35,11 +35,17 @@
 | 🐱 **[cat-tremor-analysis](https://github.com/cloud666666666/cat-tremor-analysis)** | 猫头部震颤量化分析:CSRT 追踪 + 光流 + FFT,抗手抖/进食干扰,含鲁棒性与泛化性验证 |
 | 🌌 **[tech-blog](https://github.com/cloud666666666/cloud666666666.github.io)** | 个人技术博客(深色科技风 Astro 站):具身智能、VLA、CV 工程实践 |
 
-### 📊 Stats
+### 📊 GitHub
 
 <div align="center">
+
+<!-- github-readme-stats 国内访问不稳定, 已移除; 如需恢复去掉注释 -->
+<!--
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=cloud666666666&show_icons=true&theme=transparent&title_color=00E5FF&icon_color=00E5FF&text_color=DBE4F0&bg_color=0A0F1A&hide_border=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloud666666666&layout=compact&theme=transparent&title_color=00E5FF&text_color=DBE4F0&bg_color=0A0F1A&hide_border=true" />
+-->
+
+**45+ public repos · building in public**
+
 </div>
 
 ---
