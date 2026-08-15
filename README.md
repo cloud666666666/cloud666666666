@@ -14,7 +14,7 @@
 
 - 🎓 MSc in Computer Science @ University of Auckland (2026)
 - 🤖 Embodied AI & VLA — multimodal perception, robot data closed-loop
-- 🏫 Robonix project member @ Peking University Information Technology Research Institute (ROS2-based embodied OS)
+- 🏫 Robonix project member @ Peking University Information Technology Research Institute
 - ✍️ I write at **[my blog](https://cloud666666666.github.io)**
 
 ### 🛠️ Tech Stack
@@ -24,16 +24,35 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-0A0F1A?style=flat-square&logo=opencv&logoColor=00E5FF)
 ![ROS2](https://img.shields.io/badge/ROS2-0A0F1A?style=flat-square&logo=ros&logoColor=00E5FF)
 ![NumPy](https://img.shields.io/badge/NumPy-0A0F1A?style=flat-square&logo=numpy&logoColor=00E5FF)
+![Go](https://img.shields.io/badge/Go-0A0F1A?style=flat-square&logo=go&logoColor=00E5FF)
+![Vue](https://img.shields.io/badge/Vue-0A0F1A?style=flat-square&logo=vuedotjs&logoColor=00E5FF)
 ![Linux](https://img.shields.io/badge/Linux-0A0F1A?style=flat-square&logo=linux&logoColor=00E5FF)
-![Git](https://img.shields.io/badge/Git-0A0F1A?style=flat-square&logo=git&logoColor=00E5FF)
-![Astro](https://img.shields.io/badge/Astro-0A0F1A?style=flat-square&logo=astro&logoColor=00E5FF)
 
-### 📌 Featured Projects
+### 🤖 Embodied AI
 
 | Project | Description |
 |---------|-------------|
-| 🐱 **[cat-tremor-analysis](https://github.com/cloud666666666/cat-tremor-analysis)** | 猫头部震颤量化分析:CSRT 追踪 + 光流 + FFT,抗手抖/进食干扰,含鲁棒性与泛化性验证 |
-| 🌌 **[tech-blog](https://github.com/cloud666666666/cloud666666666.github.io)** | 个人技术博客(深色科技风 Astro 站):具身智能、VLA、CV 工程实践 |
+| 🦾 **[AIIT-Roboarm](https://github.com/cloud666666666/AIIT-Roboarm)** | Piper 机械臂 + 深度相机 + YOLO:自动抓取、VLA 数据采集(LeRobot 格式),完整硬件/环境文档 |
+| 🧠 **[AIIT-openpi](https://github.com/cloud666666666/AIIT-openpi)** | Physical Intelligence openpi 的 Piper 适配:Piper policy、微调配置、checkpoint 分析 |
+| 🛠️ **[roboarm-lerobot](https://github.com/cloud666666666/roboarm-lerobot)** | HuggingFace LeRobot 框架的机械臂适配 |
+| 🔗 **[robonix](https://github.com/cloud666666666/robonix)** | 具身智能操作系统(EAIOS),项目组成员 |
+
+### 🧩 AI Applications
+
+| Project | Description |
+|---------|-------------|
+| ⚖️ **[LawRAG-Agent](https://github.com/cloud666666666/LawRAG-Agent)** | 法律 RAG:双向量检索 + BGE-Reranker 重排 + RRF 融合,Qwen2.5-7B |
+| 📚 **[rag_microencomic](https://github.com/cloud666666666/rag_microencomic)** | 微观经济学 RAG:PDF 解析 + OCR + 图表识别,本地化部署 |
+| 🐱 **[cat-tremor-analysis](https://github.com/cloud666666666/cat-tremor-analysis)** | 猫头部震颤量化:CSRT 追踪 + 光流 + FFT,抗干扰,含鲁棒性/泛化性验证 |
+
+### 🔧 Engineering
+
+| Project | Description |
+|---------|-------------|
+| 🎟️ **[damai](https://github.com/cloud666666666/damai)** (16★) | 大麦抢票工具 |
+| 🎮 **[DeltaForceAutoBuy](https://github.com/cloud666666666/DeltaForceAutoBuy)** (13★) | 游戏交易行自动购买 |
+| 🏴 **[tjupt](https://github.com/cloud666666666/tjupt)** (6★) + **[Vue-TJUPT](https://github.com/cloud666666666/Vue-TJUPT)** (4★) | 北洋园 PT 站前后端(生产环境) |
+| 🔄 **[orchids2api](https://github.com/cloud666666666/orchids2api)** | Go 语言 API 代理:多账号负载均衡,兼容 Claude API 格式 |
 
 ### 📊 GitHub
 
