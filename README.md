@@ -49,6 +49,7 @@
 
 | Project | Stars | Description |
 |---------|-------|-------------|
+| 📊 **[ExcelMind](https://github.com/cloud666666666/ExcelMind)** | 40★ | Excel 智能分析助手:自然语言查询、ECharts 可视化、多表联查(fork 维护) |
 | 🎟️ **[damai](https://github.com/cloud666666666/damai)** | 16★ | 大麦抢票工具 |
 | 🎮 **[DeltaForceAutoBuy](https://github.com/cloud666666666/DeltaForceAutoBuy)** | 13★ | 游戏交易行自动购买 |
 | 🏴 **[tjupt](https://github.com/cloud666666666/tjupt)** | 6★ | 北洋园 PT 站后端(生产环境) |
