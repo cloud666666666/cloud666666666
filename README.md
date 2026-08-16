@@ -45,14 +45,17 @@
 | 📚 **[rag_microencomic](https://github.com/cloud666666666/rag_microencomic)** | 微观经济学 RAG:PDF 解析 + OCR + 图表识别,本地化部署 |
 | 🐱 **[cat-tremor-analysis](https://github.com/cloud666666666/cat-tremor-analysis)** | 猫头部震颤量化:CSRT 追踪 + 光流 + FFT,抗干扰,含鲁棒性/泛化性验证 |
 
-### 🔧 Engineering
+### 🔧 Engineering(按 star 排序)
 
-| Project | Description |
-|---------|-------------|
-| 🎟️ **[damai](https://github.com/cloud666666666/damai)** (16★) | 大麦抢票工具 |
-| 🎮 **[DeltaForceAutoBuy](https://github.com/cloud666666666/DeltaForceAutoBuy)** (13★) | 游戏交易行自动购买 |
-| 🏴 **[tjupt](https://github.com/cloud666666666/tjupt)** (6★) + **[Vue-TJUPT](https://github.com/cloud666666666/Vue-TJUPT)** (4★) | 北洋园 PT 站前后端(生产环境) |
-| 🔄 **[orchids2api](https://github.com/cloud666666666/orchids2api)** | Go 语言 API 代理:多账号负载均衡,兼容 Claude API 格式 |
+| Project | Stars | Description |
+|---------|-------|-------------|
+| 🎟️ **[damai](https://github.com/cloud666666666/damai)** | 16★ | 大麦抢票工具 |
+| 🎮 **[DeltaForceAutoBuy](https://github.com/cloud666666666/DeltaForceAutoBuy)** | 13★ | 游戏交易行自动购买 |
+| 🏴 **[tjupt](https://github.com/cloud666666666/tjupt)** | 6★ | 北洋园 PT 站后端(生产环境) |
+| 🎨 **[Vue-TJUPT](https://github.com/cloud666666666/Vue-TJUPT)** | 4★ | 北洋园 PT 站前端 |
+| 🔄 **[orchids2api](https://github.com/cloud666666666/orchids2api)** | 3★ | Go 语言 API 代理:多账号负载均衡 |
+| 📦 **[bytedance](https://github.com/cloud666666666/bytedance)** | 1★ | Go 订单服务 |
+| 🛠️ **[dev-env](https://github.com/cloud666666666/dev-env)** | 1★ | PT 站开发环境 |
 
 ### 📊 GitHub
 
