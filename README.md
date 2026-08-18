@@ -13,7 +13,7 @@
 ### 🧠 About Me
 
 - 🎓 MSc in Computer Science @ University of Auckland (2026)
-- 🎓 BSc in Computer Science @ Northeast Forestry University (211)
+- 🎓 BSc in Computer Science @ Northeast Forestry University
 - 🧠 LLM training / SFT — VLA & multimodal, embodied AI as application field
 - 🏫 Robonix project member @ Peking University Information Technology Research Institute
 - ✍️ I write at **[my blog](https://cloud666666666.github.io)**
