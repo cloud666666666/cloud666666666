@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=%3E+Joker.Yun+%7C+Embodied+AI+Engineer;%3E+Embodied+AI+%26+VLA+Engineer;%3E+Multimodal+%7C+Robot+Data+Pipeline;%3E+Computer+Vision+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=%3E+Joker.Yun+%7C+LLM+Engineer;%3E+LLM+Training+%7C+SFT+%7C+VLA;%3E+Multimodal+%7C+Robot+Data+Pipeline;%3E+Computer+Vision+Engineering" alt="Typing SVG" />
 
 <a href="https://cloud666666666.github.io"><img src="https://img.shields.io/badge/Blog-00E5FF?style=for-the-badge&logo=astro&logoColor=04121A" alt="Blog"/></a>
 <a href="https://github.com/cloud666666666/cat-tremor-analysis"><img src="https://img.shields.io/badge/Open_Source-Project-0A0F1A?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Projects"/></a>
