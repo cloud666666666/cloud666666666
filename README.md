@@ -13,7 +13,8 @@
 ### 🧠 About Me
 
 - 🎓 MSc in Computer Science @ University of Auckland (2026)
-- 🤖 Embodied AI & VLA — multimodal perception, robot data closed-loop
+- 🎓 BSc in Computer Science @ Northeast Forestry University (211)
+- 🧠 LLM training / SFT — VLA & multimodal, embodied AI as application field
 - 🏫 Robonix project member @ Peking University Information Technology Research Institute
 - ✍️ I write at **[my blog](https://cloud666666666.github.io)**
 
