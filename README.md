@@ -50,14 +50,13 @@
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| 📊 **[ExcelMind](https://github.com/cloud666666666/ExcelMind)** | 40★ | Excel 智能分析助手:自然语言查询、ECharts 可视化、多表联查(fork 维护) |
-| 🎟️ **[damai](https://github.com/cloud666666666/damai)** | 16★ | 大麦抢票工具 |
-| 🎮 **[DeltaForceAutoBuy](https://github.com/cloud666666666/DeltaForceAutoBuy)** | 13★ | 游戏交易行自动购买 |
-| 🏴 **[tjupt](https://github.com/cloud666666666/tjupt)** | 6★ | 北洋园 PT 站后端(生产环境) |
-| 🎨 **[Vue-TJUPT](https://github.com/cloud666666666/Vue-TJUPT)** | 4★ | 北洋园 PT 站前端 |
-| 🔄 **[orchids2api](https://github.com/cloud666666666/orchids2api)** | 3★ | Go 语言 API 代理:多账号负载均衡 |
-| 📦 **[bytedance](https://github.com/cloud666666666/bytedance)** | 1★ | Go 订单服务 |
-| 🛠️ **[dev-env](https://github.com/cloud666666666/dev-env)** | 1★ | PT 站开发环境 |
+| 📊 **[ExcelMind](https://github.com/cloud666666666/ExcelMind)** | 42★ | Excel 智能分析助手:自然语言查询、ECharts 可视化、多表联查(fork 维护) |
+| 🎟️ **[damai](https://github.com/cloud666666666/damai)** | 17★ | 大麦抢票工具 |
+| 🎮 **[DeltaForceAutoBuy](https://github.com/cloud666666666/DeltaForceAutoBuy)** | 14★ | 游戏交易行自动购买 |
+| 🔄 **[orchids2api](https://github.com/cloud666666666/orchids2api)** | 4★ | Go 语言 API 代理:多账号负载均衡 |
+| 📦 **[bytedance](https://github.com/cloud666666666/bytedance)** | 2★ | Go 订单服务 |
+| 🐾 **[dsh-pet-ccswitch](https://github.com/cloud666666666/dsh-pet-ccswitch)** | 0★ | 桌宠搬家:把 DeepSeek Harness 的 dsh-pet 独立出来,接到 CC Switch 上(Windows) |
+| 📡 **[daily-jobs](https://github.com/cloud666666666/daily-jobs)** | 0★ | 每日 AI/算法岗位雷达:牛客+龙哥表双源,零依赖可复现 |
 
 ### 📊 GitHub
 
